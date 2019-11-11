@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-image: url(https://bit.ly/2qGCzTp);
+    color: rgba(137, 43, 226, 0.712)
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 20vh;
+    background-color: rgb(253, 250, 250);
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+}
